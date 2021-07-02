@@ -1,5 +1,5 @@
 # MachineLearning_Asteroids
-Invenstigation whether machine learning methods can be used to facilitate the mapping of the solar system.
+Investigation whether machine learning methods can be used to facilitate the mapping of the solar system.
 
 As of 17 August 2020, 991,909 asteroids are already known in our solar system (source: https://ssd.jpl.nasa.gov/?body_count). 
 The aim of this project is to investigate whether machine learning methods can be used to facilitate the mapping of the solar system. 
